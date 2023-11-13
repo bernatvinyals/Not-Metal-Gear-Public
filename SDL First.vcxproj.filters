@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\ResourceManager.cpp">
+      <Filter>Engine\Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Video.cpp">
+      <Filter>Engine\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Input.cpp">
+      <Filter>Engine\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\InputGamepad.cpp">
+      <Filter>Engine\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\ACharacter.cpp">
+      <Filter>Game\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\KeyboardInfo.cpp">
+      <Filter>Engine\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\SoundManager.cpp">
+      <Filter>Engine\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Scene.cpp">
+      <Filter>Engine\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\SceneDirector.cpp">
+      <Filter>Engine\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneGame.cpp">
+      <Filter>Game\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMain.cpp">
+      <Filter>Game\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneTranscriber.cpp">
+      <Filter>Game\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\TextManager.cpp">
+      <Filter>Engine\Resources</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Actor.cpp">
+      <Filter>Engine\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\UIText.cpp">
+      <Filter>Engine\UI\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\AMap.cpp">
+      <Filter>Engine\Scenes\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="libraries\TinyXML\tinyxml2.cpp">
+      <Filter>Engine\Libraries</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\UIProggressBar.cpp">
+      <Filter>Engine\UI\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="AEnemy.cpp">
+      <Filter>Game\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\MapManager.cpp">
+      <Filter>Engine\Scenes\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\AMapSwitcher.cpp">
+      <Filter>Engine\Scenes\Level</Filter>
+    </ClCompile>
+    <ClCompile Include="AItem.cpp">
+      <Filter>Game\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\Camera.cpp">
+      <Filter>Engine\Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\ANotification.cpp">
+      <Filter>Engine\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneEquipment.cpp">
+      <Filter>Game\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="AItem_Weapon.cpp">
+      <Filter>Game\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="Engine\GameData.cpp">
+      <Filter>Game\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneWeaponList.cpp">
+      <Filter>Game\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneHighscore.cpp">
+      <Filter>Game\Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp" />
+    <ClCompile Include="ABullet.cpp">
+      <Filter>Game\Gameplay</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneGameOver.cpp">
+      <Filter>Game\Scenes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine\ResourceManager.h">
+      <Filter>Engine\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Globals.h">
+      <Filter>Engine\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Input.h">
+      <Filter>Engine\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\InputGamepad.h">
+      <Filter>Engine\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\PlayerDirections.h">
+      <Filter>Engine\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\ACharacter.h">
+      <Filter>Game\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\KeyboardInfo.h">
+      <Filter>Engine\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\SoundManager.h">
+      <Filter>Engine\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Scene.h">
+      <Filter>Engine\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\SceneDirector.h">
+      <Filter>Engine\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneGame.h">
+      <Filter>Game\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMain.h">
+      <Filter>Game\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneTranscriber.h">
+      <Filter>Game\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\TextManager.h">
+      <Filter>Engine\Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Actor.h">
+      <Filter>Engine\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\UIText.h">
+      <Filter>Engine\UI\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\AMap.h">
+      <Filter>Engine\Scenes\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="libraries\TinyXML\tinyxml2.h">
+      <Filter>Engine\Libraries</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\UIProggressBar.h">
+      <Filter>Engine\UI\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="AEnemy.h">
+      <Filter>Game\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\MapManager.h">
+      <Filter>Engine\Scenes\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\AMapSwitcher.h">
+      <Filter>Engine\Scenes\Level</Filter>
+    </ClInclude>
+    <ClInclude Include="AItem.h">
+      <Filter>Game\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Video.h">
+      <Filter>Engine\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\Camera.h">
+      <Filter>Engine\Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\ANotification.h">
+      <Filter>Engine\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneEquipment.h">
+      <Filter>Game\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="AItem_Weapon.h">
+      <Filter>Game\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="Items.h">
+      <Filter>Game\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine\GameData.h">
+      <Filter>Game\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneWeaponList.h">
+      <Filter>Game\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneHighscore.h">
+      <Filter>Game\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.h" />
+    <ClInclude Include="ABullet.h">
+      <Filter>Game\Gameplay</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneGameOver.h">
+      <Filter>Game\Scenes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{9d3dffa2-150c-4120-8e81-23452edeaf71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{ac678995-58e5-4121-b711-5ca9b745a5e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Input">
+      <UniqueIdentifier>{3820c2df-56de-48b6-8151-3cf5dadfc04c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Render">
+      <UniqueIdentifier>{10b7ff43-3571-41e7-8e5a-a8da4e843b6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Resources">
+      <UniqueIdentifier>{6d90d20f-4d75-4244-b8f6-97badeacef75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Audio">
+      <UniqueIdentifier>{774a7513-394d-43bd-a07a-507f954393a7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Scenes">
+      <UniqueIdentifier>{bd8b10d9-df4f-48df-884d-e64dcc970ee7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Scenes">
+      <UniqueIdentifier>{e1728c1c-0257-46ef-8e56-2bbdd05b06cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\Gameplay">
+      <UniqueIdentifier>{65aded1f-91d2-4c4b-a3ef-6414adf9968b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\UI">
+      <UniqueIdentifier>{2acfc59f-6959-4ae7-ae79-a3ee325c14b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\UI\Components">
+      <UniqueIdentifier>{01fa30db-e615-46b7-809b-c23107e61580}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Scenes\Level">
+      <UniqueIdentifier>{4bc3ad79-e525-41ff-96f4-abb3b401d41e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Libraries">
+      <UniqueIdentifier>{908633bc-fe59-4078-8e1d-9a22417bbd6f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

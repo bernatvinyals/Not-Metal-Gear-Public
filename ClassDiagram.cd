@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Input" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAANAAAAIAISAAAAAAAAEABAAAQAAAICAAAAAQA=</HashCode>
+      <FileName>Engine\Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputGamepad">
+    <Position X="21" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEgAAQAAAgABIAgCAgAAAAAAARAAACAAAgAAAACAAQ=</HashCode>
+      <FileName>Engine\InputGamepad.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyboardInfo" Collapsed="true">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>igUAESQBAMH/AQAADgDmLIAAIiGBkBRAgUgQwP9C/38=</HashCode>
+      <FileName>Engine\KeyboardInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Video" Collapsed="true">
+    <Position X="16.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQQBEAAQAAQACQQgAAAAAAIASAAIACAAAAAAg=</HashCode>
+      <FileName>Engine\Video.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ResourceManager" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAIAAAEACREABADEABAAAAAAwQAAAICQAAJABA=</HashCode>
+      <FileName>Engine\ResourceManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextManager" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAUAAAiAAAgAEAAAAwAEAACAAAIIQI=</HashCode>
+      <FileName>Engine\TextManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager">
+    <Position X="23" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgBgEIABUAEgCIEEQABCAAgAgAQIAgyAAIgqAAAAAAA=</HashCode>
+      <FileName>Engine\SoundManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Actor" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kBQAIAEAAAAAkCYEAAAABAkAAAAAAAAAYRQAAAIAAAA=</HashCode>
+      <FileName>Engine\Actor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scene" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAgAAABgAAQAQAAAYACAAAAAAUBAA=</HashCode>
+      <FileName>Engine\Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneDirector" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAQAAAAAAACAAAJBAAAAAYIAAADAIAAAAA=</HashCode>
+      <FileName>Engine\SceneDirector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AMap" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAEAAAAAAAAAIAAAAABAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\AMap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIText" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAQAAAAAAAABA=</HashCode>
+      <FileName>Engine\UIText.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneGame" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAEAAAAAAIAAAAABYAUAQA=</HashCode>
+      <FileName>SceneGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneMain" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAEAAAAEACAAAAAAAAAAAAAAAAAIAAAAAAAAUAAA=</HashCode>
+      <FileName>SceneMain.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SceneTranscriber" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAACAAAAYAAAAAAACUAAA=</HashCode>
+      <FileName>SceneTranscriber.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ACharacter" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAEgAAhAIAAAJAAAEAAAAAAAEYQIDAAgAAQCAA=</HashCode>
+      <FileName>Engine\ACharacter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLDocument" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAggQcQSSAQEYDgAhAgCAAEAAAZBAAkhAAkVRt1FQA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLElement" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAkAQYCICE2QgEIQpCIIL/RQRQAACoAEQCgQAAAiEA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLAttribute" Collapsed="true">
+    <Position X="18" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IhYAqAAAACRAABAEAAggAAQAAhAAAEAgAAAgQAEQgAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLComment" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAAAAAAAAAAAAAQACAAAAAAAAAAAgAAAAgAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLText" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAAEAAQAAAAEAAAAAAAABAAAAEAAAgAAEAgAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLDeclaration" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQCAAAAAAAAAAAAAAAAAAAAAEAAAAIgAAAAgAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLUnknown" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAAQAAEAAAAAAAAAAAAAAAAAAAAAAAAggAAAAgAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLPrinter" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGoQAAgAAAABgUAAAAEBAIAABAEgAAQoQEhAAUsghY=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::StrPair" Collapsed="true">
+    <Position X="19.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAiAAAAAhAAQCAIAAQgIAAAQAAAAAQAgAAQAAAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::DynArray&lt;T, INITIAL_SIZE&gt;" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgBACAkAABAAIAAAASAAGAAAAAAgAwEAJACAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::MemPool" Collapsed="true">
+    <Position X="8.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAgAAEAAAAAAAAAAgAgAAAI=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::MemPoolT&lt;ITEM_SIZE&gt;" Collapsed="true">
+    <Position X="8.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAQAAAAhAAAAAgAAFAAABAAYAEgAAhAEAo=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLVisitor" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAQAAAAACAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLUtil" Collapsed="true">
+    <Position X="16.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAIIAAkAMAAAFAAAAJAAKAAAAAgBIABgigAAAAAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLNode" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ALIgAAaMAEAACgAAEkAQYQhUgpqAIAAgAIskAAhghAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLHandle" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEBAAAEAACAAAAEAAIAAAAAiAAAAAAIcgAABABAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tinyxml2::XMLConstHandle" Collapsed="true">
+    <Position X="19.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgEBAAAEAACAAAAEAAIAAAAAiAAAAAAIMgAABABAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="PlayerDirections" Collapsed="true">
+    <Position X="16.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Engine\PlayerDirections.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="tinyxml2::Entity" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAECAAAAAAAAAAAAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="ACTOR_INIT_FLAGS" Collapsed="true">
+    <Position X="1.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Actor.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_enum_0004_1" Collapsed="true">
+    <Position X="1.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAQAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\Actor.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SceneEnum" Collapsed="true">
+    <Position X="16.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAIAoAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Engine\SceneDirector.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CharaterState" Collapsed="true">
+    <Position X="14.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAgAAAEAAgAAAAAISAAAgAAIAAAAAAAA=</HashCode>
+      <FileName>Engine\ACharacter.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="tinyxml2::XMLError" Collapsed="true">
+    <Position X="19.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABCCAAAEAEAgoAAACACAAAAEQBAAAAIEEAABAgAIA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="tinyxml2::Whitespace" Collapsed="true">
+    <Position X="18" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>libraries\TinyXML\tinyxml2.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
